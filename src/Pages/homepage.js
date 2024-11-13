@@ -7,7 +7,7 @@ function Homepage() {
       <p style={{ fontSize: '1.5em', fontWeight: 'bold', textAlign: 'center' }}>Your contribution can help to control e-waste for a cleaner environment.</p>
       <img
         src="./images/home3.jpg"
-        alt="E-Waste"
+        
         style={{
           width: '80%',
           height: '100vh',
@@ -24,7 +24,7 @@ function Homepage() {
       <section style={{ padding: '30px', backgroundColor: '#f9f9f9', textAlign: 'center' }}>
         <h2>The E-Waste Problem</h2>
         <p>Did you know that over 50 million tons of e-waste is generated globally every year? E-waste is one of the fastest-growing waste streams worldwide.</p>
-        <img src="https://media.istockphoto.com/id/1031730794/vector/modern-green-industrial-recycle-process-infographic-illustration.jpg?s=612x612&w=0&k=20&c=IpJpzpCkGKx57QHCWojFL_mLrbOu8CO7T_isc0YtUXE=" alt="E-Waste Infographic" style={{ maxWidth: '100%', height: 'auto' }} />
+        <img src="https://media.istockphoto.com/id/1031730794/vector/modern-green-industrial-recycle-process-infographic-illustration.jpg?s=612x612&w=0&k=20&c=IpJpzpCkGKx57QHCWojFL_mLrbOu8CO7T_isc0YtUXE="  style={{ maxWidth: '100%', height: 'auto' }} />
       </section>
 
       {/* Call to Action Buttons */}
@@ -46,7 +46,7 @@ function Homepage() {
   {/* E-Waste Image */}
   <img 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrElfDy39b7p3g8dS_9TRtXSA4M7e_KjEeng&s" 
-    alt="E-Waste Image" 
+  
     style={{ maxWidth: '100%', height: '50vh', marginTop: '15px' }}
   />
 </section>
